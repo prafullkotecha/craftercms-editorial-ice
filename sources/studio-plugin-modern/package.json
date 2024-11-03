@@ -24,7 +24,7 @@
     "@babel/preset-env": "^7.7.1",
     "@babel/preset-react": "^7.7.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
-    "rollup": "^1.27.2",
+    "rollup": "^2.79.2",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commit": "^0.0.2",
     "rollup-plugin-commonjs": "^10.1.0",
